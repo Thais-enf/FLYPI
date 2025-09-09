@@ -79,7 +79,7 @@ window.onload = function () {
   birdDownImg.src = "./assets/redbird-downflap.png";
 
   topPipeImg = new Image();
-  topPipeImg.src = "./assets/topPipe.png"; // confira o nome do arquivo
+  topPipeImg.src = "./assets/toppipe.png"; // confira o nome do arquivo
 
   bottomPipeImg = new Image();
   bottomPipeImg.src = "./assets/bottompipe.png"; // confira o nome do arquivo
